@@ -1,0 +1,6 @@
+input java.util.Scanner;
+	public class AddingValuesForLoop{
+		public static void main(String[]args){
+		
+		}
+}
